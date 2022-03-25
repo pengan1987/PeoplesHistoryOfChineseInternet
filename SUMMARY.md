@@ -1,6 +1,6 @@
 # 目录
 
-* [简介](README.md)
+* [内容简介](README.md)
 * [人民计算运动：爱好者们是如何塑造中国式数字生活的](peoples_computing.md)
 * [中国智能手机社区的启蒙老师：卡西欧MC21](casio_mc21.md)
 * [中国笔电社区的启蒙老师：“小天才”和它的伙伴们](xiaotiancai_and_mini_laptops.md)

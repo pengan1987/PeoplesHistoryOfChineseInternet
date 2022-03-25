@@ -10,6 +10,8 @@
 ## 迷之笔电——“小天才”
 关于精工SII “小天才”电脑的资料，即使在其诞生和发行的日本也极其有限，因此也被日本爱好者称作“謎のノートPC”[^1]，从公开的资料看，它在1998年左右获得过日本设计振兴会颁发的优良设计奖[^2]，并和精工当年的另外一件“黑科技”Ruputer手表电脑一起列为“环境友好型”产品。
 
+![精工SII WX-1110](.gitbook/assets/xiaotiancai_wx1110.png)
+
 **精工SII WX-1110**
 - CPU AMD Elan SC400 (486SX 相当） 100MHz
 - 内存 32MB (on board only)
@@ -27,6 +29,8 @@
 
 ## Win98平板——小三菱
 就在“先遣队”小天才登陆后的短短几个月之后，三菱Amity VP的出现算是正式拉开了洋垃圾笔记本“黄金时代”的序幕。
+
+![精工SII WX-1110](.gitbook/assets/xiaotiancai_amity.png)
 
 **三菱 AMiTY VP**
 - CPU：AMD Am5x86(TM)-P75 133Mhz（性能接近于Pentium 75MHz）
@@ -46,6 +50,8 @@
 
 ## “小萝卜头”——东芝Libretto 50m
 2000年之后，笔记本电脑正在经历一股小型化的浪潮，特别是全美达（Transmeta）的Crusoe处理器出现之后，索尼推出了UMPC的前身VAIO PCG-U1，加上之前的超小型笔记本C1，让超便携笔记本成为爱好者们“发烧”的新目标。不过与Tablet PC一样，高昂的售价让大多数爱好者都望而却步。不过热爱淘宝的爱好者们很快就发现了替代品——东芝Libretto 50m。
+
+![精工SII WX-1110](.gitbook/assets/xiaotiancai_50m.png)
 
 **东芝Libretto 50m**
 - CPU：Pentium 75MHz（许多商家超频到133Mhz）

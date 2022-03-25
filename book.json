@@ -11,8 +11,8 @@
 	},
     "pdf": {
         "pageNumbers": true,
-        "fontSize": 10,
-        "paperSize": "a5",
+        "fontSize": 11,
+        "paperSize": "b5",
         "fontFamily":"Times New Roman",
         "margin": {
           "right": 0,
