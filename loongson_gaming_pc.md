@@ -87,7 +87,7 @@ Processing不是游戏，而是一个多媒体交互开发环境，由于它使�
 
 当然相比之下龙芯社群还显得有些稚嫩，无论是社群规模、影响和声誉还是跨界合作都较为有限，我也决定为龙芯社区的建设出一份力，让更多的大众有机会体验龙芯电脑。我把这台龙梦9S2A一体机捐赠给中关村创业大街的极致时空创业博物馆展出，这应该是目前国内唯一可以公开体验龙芯电脑及其游戏的场合，每个参观者都可以亲自体验用龙芯电脑玩经典游戏的乐趣。
 
-## 参考资料
+
 [^1]: 龙芯能干啥? https://zhuanlan.zhihu.com/p/60074380
 [^2]: SDLQuake https://www.libsdl.org/projects/quake/
 [^3]: Linux Quake HOWTO https://tldp.org/HOWTO/Quake-HOWTO-3.html

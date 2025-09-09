@@ -10,4 +10,5 @@
 * [不（只）是游戏机，“学习机”究竟有几个意思？](learn_machine_definition.md)
 * [昙花一现：中国Demoscene社区简史](chinese_demoscene_history.md)
 * [把龙芯电脑变成怀旧游戏PC是什么体验？](loongson_gaming_pc.md)
+* [垃圾佬：以再利用作为平价电子产品的来源](tech_scavengers_reuse.md)
 * [附录：知乎文章链接](zhihu_links.md)

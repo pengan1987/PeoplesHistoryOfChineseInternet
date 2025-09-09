@@ -35,7 +35,7 @@ wx则认为是世俗的成功给年轻人的压力：“还是没有经济利益
 
 要建设一个活跃的Demoscene社区注定需要许多人的不同努力，即使在相对起步较早的北美和日本，Demo社区仍然仅仅局限于一个非常小的圈子，只有欧洲我们才能看到真正意义上繁荣的Demo社区。但我相信当年那些“吃螃蟹者”的勇敢尝试，仍然会给今日中文社互联网社区留下许多借鉴和启示。
 
-## 参考资料
+
 [^1]: 知乎：sycini为什么消失了？现在国内还有demoscene group吗？ https://www.zhihu.com/question/23932622
 [^2]: 叶力奥：计算艺术 http://www.cqcn.com/computearts/index.html
 [^3]: farb-rausch中文同步镜像站原网址为 farb-rausch.cn，已无法访问

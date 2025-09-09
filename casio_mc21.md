@@ -63,7 +63,7 @@ MC-21究竟对中国互联网手机的诞生产生了多少影响可能以无从
 
 而包括笔者在内，许多以MC-21启蒙的移动开发者如今正活跃在智能手机开发一线。在智能手机仍然曲高和寡的年代，MC-21以极低的学费教会了这批发烧友们移动APP开发和设计的诸多基本要素，这可能是这款古老的数码玩具带给我们最有价值的财富了。
 
-## 参考资料
+
 [^1]: 玩盡MC-21！！相機變身Windows CE PDA秘技大公開 http://web.archive.org/web/20021202083003/http://www.happycorner.com.hk/sp003.htm
 [^2]: Micro Cheng https://www.micro-cheng.com/
 [^3]: ポケットポストペットで Windows CE http://web.archive.org/web/20050514022357/http://www.geocities.jp/windowscelab/popope.html

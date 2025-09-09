@@ -66,7 +66,7 @@ Hi!PDA上面大米果农的一篇《BB无线上网的探索与实践》[^9]率�
 
 2013年10月14日，黑莓中国公司裁员散伙，虽然当时的人们曾相信黑莓爱好者社群的“民间力量”会得到延续[^13]，但之后的黑莓并未能再次从民间得到能量，只能落寞的望着它的中国“学生”们渐行渐远……
 
-## 参考资料
+
 [^1]: Looking for Blackberry pioneer https://www.hi-pda.com/forum/viewthread.php?tid=240221
 [^2]: Blackberry应用系列 - 自带软件之一 : 行事历 https://www.hi-pda.com/forum/viewthread.php?tid=262778
 [^3]: blackberry 中文化及其它 https://www.hi-pda.com/forum/viewthread.php?tid=275892

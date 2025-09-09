@@ -65,7 +65,7 @@ Flash社区也助推了网络游戏的发展。虽然中国的Flash爱好者社�
 
 类似的，根据场馆条件和展示需要，可以采用不同的硬件。可能会用到的设备包括：运行DOS或Windows 9x的PC、使用PowerPC处理器的苹果电脑、小型电话交换机、调制解调器、运行PalmOS或Windows CE的掌上电脑。较为复杂的配置，则可能会安装闭路电视调制器和VoIP电话交换机。
 
-## 参考资料
+
 [^1]: CAC · 开幕回顾 | We=Link：辺 http://www.chronusartcenter.org/cac-%C2%B7-%E5%BC%80%E5%B9%95%E5%9B%9E%E9%A1%BE-welink%EF%BC%9A%E8%BE%BA/
 [^2]: 【xurunhua作品】掌上农历(支持TT五向轮) https://web.archive.org/web/20030617161505/http://www.echoice.com.cn/bbs/display.asp?luntan=1&forumID=73169
 [^3]: Palm掌上电脑正式进军中国 http://tech.sina.com.cn/it/w/2002-12-13/1255155835.shtml

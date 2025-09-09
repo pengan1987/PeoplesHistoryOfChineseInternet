@@ -8,3 +8,4 @@
 - [不（只）是游戏机，“学习机”究竟有几个意思？](https://zhuanlan.zhihu.com/p/348414704)
 - [昙花一现：中国Demoscene社区简史](https://zhuanlan.zhihu.com/p/36800700)
 - [把龙芯电脑变成怀旧游戏PC是什么体验？](https://zhuanlan.zhihu.com/p/81637198)
+- [垃圾佬——以再利用作为平价电子产品的来源](https://zhuanlan.zhihu.com/p/20226055927)

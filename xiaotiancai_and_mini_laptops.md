@@ -129,7 +129,6 @@ OLPC（One Laptop Per Child 一童一电脑） XO-1，是2005年，由《数字�
 
 2014年，799元的酷比魔方iwork8的出现，让百度帖吧等网上社区中掀起了又一股平板电脑的热潮，年轻一代的爱好者基本没有人会了解当年日系手写小笔电和平板电脑在中国的风光，只有像TouchMousePointer这样的Win8平板必备软件，才会让笔者这样的亲历者回忆起当年“日本老师”们给予中国移动互联网社区的启发。
 
-## 参考资料
 [^1]: sorriman：謎のノートPC「WX-1110ｚ」 https://plaza.rakuten.co.jp/sorriman/002000/
 [^2]: Good Design Award 業務用パーソナルコンピューター [SII WX-1110] http://www.g-mark.org/award/describe/24742
 [^3]: 小三菱amity手写板笔记本_百度百科 https://baike.baidu.com/item/%E5%B0%8F%E4%B8%89%E8%8F%B1amity%E6%89%8B%E5%86%99%E6%9D%BF%E7%AC%94%E8%AE%B0%E6%9C%AC/2107118
